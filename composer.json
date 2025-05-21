@@ -1,0 +1,6 @@
+{
+    "require": {
+        "nutgram/nutgram": "^4.37",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
